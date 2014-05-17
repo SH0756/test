@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
+
+int main()
 {
-  cout << "neko" << endl;
-  
+  cout << "test2" << endl;
 }
